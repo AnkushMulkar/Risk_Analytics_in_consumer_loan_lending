@@ -1,4 +1,4 @@
-# Lending Club Case Study
+# Risk_Analytics_in_consumer_loan_lending
 > This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures.  Borrowers can easily access lower interest rate loans through a fast online interface. 
 
 Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
@@ -52,7 +52,6 @@ In this case study, EDA is used to understand how consumer attributes and loan a
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-- This project was inspired by...Upgrad
 - This project was based on [Exploratory Data Analysis]
 
 
