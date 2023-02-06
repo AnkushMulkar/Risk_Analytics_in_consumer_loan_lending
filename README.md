@@ -2,8 +2,7 @@
 > This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures.  Borrowers can easily access lower interest rate loans through a fast online interface. 
 
 # Problem Statement-
-Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
-
+Determining the factors that influence loan default in a consumer finance company through exploratory data analysis and identifying patterns that can help minimize financial loss in loan lending
 
 
 ## Table of Contents
